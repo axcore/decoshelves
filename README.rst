@@ -13,7 +13,7 @@ Have YOU ever wanted to make a bookshelf out of leaves, coral, lava or any other
 
 This mod provides (as standard) bookshelves made out of about forty different materials. A few of them use animated textures.
 
-Each bookshelf come in two varities: the ordinary version, and a lockable version (with glass doors). Skeleton keys from default can be used with the lockable version.
+Each bookshelf come in two varieties: the ordinary version, and a lockable version (with glass doors). Skeleton keys from default can be used with the lockable version.
 
 The craft recipe for the ordinary version is:
 
@@ -31,7 +31,7 @@ The locked version uses a steel ingot in its craft recipe:
 
         MATERIAL MATERIAL MATERIAL
 
-You can easily add or remove new types of bookshelf; just open the init.lua file in a text editor, and add or remove lines from the list. You can add a bookshelf type out of (almost) any material: as long as minetest can retrieve the texture, then decoshelves can use that texture.
+You can easily add or remove new types of bookshelf; just open the init.lua file in a text editor, and add or remove lines from the list. You can add a bookshelf type out of (almost) any material: as long as Minetest can retrieve the texture, then decoshelves can use that texture.
 
 License (code): GNU Lesser General Public License, version 2.1
 License (media): Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)

@@ -19,7 +19,7 @@ decoshelves = {}
 decoshelves.name = "decoshelves"
 
 decoshelves.ver_max = 1
-decoshelves.ver_min = 5
+decoshelves.ver_min = 6
 decoshelves.ver_rev = 0
 
 ---------------------------------------------------------------------------------------------------
